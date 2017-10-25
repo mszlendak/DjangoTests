@@ -1,0 +1,158 @@
+1508941742964	geckodriver	INFO	geckodriver 0.19.0
+1508941742976	geckodriver	INFO	Listening on 127.0.0.1:53299
+1508941744073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Jdwmv4aAKOPX"
+1508941744522	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941745270	Marionette	INFO	Enabled via --marionette
+1508941747777	Marionette	INFO	Listening on port 42343
+1508941747803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941747842	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941747944	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941747963	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941747963	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941747967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941747980	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508941863912	geckodriver	INFO	geckodriver 0.19.0
+1508941863915	geckodriver	INFO	Listening on 127.0.0.1:52945
+1508941865016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nXHMt0OVIbLC"
+1508941865169	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941865791	Marionette	INFO	Enabled via --marionette
+1508941868289	Marionette	INFO	Listening on port 37277
+1508941868351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941868397	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941868417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941868427	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941868427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941868432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941868444	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508941896583	geckodriver	INFO	geckodriver 0.19.0
+1508941896586	geckodriver	INFO	Listening on 127.0.0.1:42507
+1508941897725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9Ymi53puP8Mh"
+1508941897877	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941898515	Marionette	INFO	Enabled via --marionette
+1508941901010	Marionette	INFO	Listening on port 39907
+1508941901048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941901096	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941901132	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941901150	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941901150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941901154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941901167	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508941913197	geckodriver	INFO	geckodriver 0.19.0
+1508941913200	geckodriver	INFO	Listening on 127.0.0.1:51961
+1508941914339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cuyazoWTVZCw"
+1508941914499	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941915113	Marionette	INFO	Enabled via --marionette
+1508941917864	Marionette	INFO	Listening on port 40225
+1508941917965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941918003	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941918024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941918034	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941918034	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941918039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941918052	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1508941919361	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508941933641	geckodriver	INFO	geckodriver 0.19.0
+1508941933644	geckodriver	INFO	Listening on 127.0.0.1:46095
+1508941934778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jt4wBU8300n7"
+1508941934938	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941935546	Marionette	INFO	Enabled via --marionette
+1508941938116	Marionette	INFO	Listening on port 35867
+1508941938222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941938272	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941938315	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941938332	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941938332	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941938337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941938351	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508941956263	geckodriver	INFO	geckodriver 0.19.0
+1508941956266	geckodriver	INFO	Listening on 127.0.0.1:41231
+1508941957378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6KV7AgKxcsli"
+1508941957540	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941958160	Marionette	INFO	Enabled via --marionette
+1508941960636	Marionette	INFO	Listening on port 36223
+1508941960802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941960848	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941960872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941960886	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941960886	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941960891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941960904	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508941969882	geckodriver	INFO	geckodriver 0.19.0
+1508941969885	geckodriver	INFO	Listening on 127.0.0.1:60719
+1508941970990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8Xribk3BAsE9"
+1508941971158	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508941971782	Marionette	INFO	Enabled via --marionette
+1508941974433	Marionette	INFO	Listening on port 43419
+1508941974512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508941974550	Marionette	DEBUG	Register listener.js for window 2147483649
+1508941974571	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508941974582	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508941974582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508941974587	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508941974602	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1508941975425	Marionette	INFO	New connections will no longer be accepted
+[Child 14185] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508942048863	geckodriver	INFO	geckodriver 0.19.0
+1508942048866	geckodriver	INFO	Listening on 127.0.0.1:45499
+1508942049973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HoP0kkMdWYUp"
+1508942050135	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508942050734	Marionette	INFO	Enabled via --marionette
+1508942053232	Marionette	INFO	Listening on port 37545
+1508942053358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508942053406	Marionette	DEBUG	Register listener.js for window 2147483649
+1508942053436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508942053444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508942053444	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508942053449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508942053462	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508942063223	geckodriver	INFO	geckodriver 0.19.0
+1508942063226	geckodriver	INFO	Listening on 127.0.0.1:59575
+1508942064334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Sy9ht3JQUoZc"
+1508942064507	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508942065105	Marionette	INFO	Enabled via --marionette
+1508942067614	Marionette	INFO	Listening on port 36669
+1508942067736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508942067782	Marionette	DEBUG	Register listener.js for window 2147483649
+1508942067813	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508942067832	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508942067832	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508942067839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508942067851	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508942719630	geckodriver	INFO	geckodriver 0.19.0
+1508942719633	geckodriver	INFO	Listening on 127.0.0.1:34961
+1508942720739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.afVGnnqDdMto"
+1508942720898	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508942721527	Marionette	INFO	Enabled via --marionette
+1508942724531	Marionette	INFO	Listening on port 43801
+1508942724571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508942724616	Marionette	DEBUG	Register listener.js for window 2147483649
+1508942724647	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508942724665	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508942724665	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508942724670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508942724682	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1508942725399	Marionette	INFO	New connections will no longer be accepted
+1508942756299	geckodriver	INFO	geckodriver 0.19.0
+1508942756302	geckodriver	INFO	Listening on 127.0.0.1:56409
+1508942757439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xZ6xgQU3x4jq"
+1508942757595	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508942758228	Marionette	INFO	Enabled via --marionette
+1508942760888	Marionette	INFO	Listening on port 38177
+1508942760966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508942761002	Marionette	DEBUG	Register listener.js for window 2147483649
+1508942761022	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508942761031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508942761031	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508942761038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508942761050	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1508942761752	Marionette	INFO	New connections will no longer be accepted
+[Child 16623] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16623] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
