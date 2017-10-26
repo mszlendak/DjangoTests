@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 import unittest
 
 class NewVisitorTest(unittest.TestCase):
@@ -13,7 +14,18 @@ class NewVisitorTest(unittest.TestCase):
         self.browser.get("http://localhost:8000")
 
         self.assertIn("To-Do lists", self.browser.title)
-        self.fail("Finish The test")
+        header_text = self.browser.find_element_by_tag_name("h1").text
+        self.assertIn("TO-DO", header_text)
 
+        inputbox = self.browser.find_element_by_id('id_new_item')
+        self.assertEqual(
+            inputbox.get_attribute('placeholder'),
+            "Enter a to-do item"
+        )
+
+
+        inputbox.send_keys("Buy peacok feathers")
+
+        inputbox.send_keys(Keys.ENTER)
 if __name__ == "__main__":
     unittest.main(warnings = "ignore")

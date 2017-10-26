@@ -217,3 +217,19 @@
 1508952723562	Marionette	INFO	New connections will no longer be accepted
 [Child 23807] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 23807] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1509036230621	geckodriver	INFO	geckodriver 0.19.0
+1509036230624	geckodriver	INFO	Listening on 127.0.0.1:34497
+1509036231721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rOYM5sMJ4IpE"
+1509036231875	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509036232601	Marionette	INFO	Enabled via --marionette
+1509036235136	Marionette	INFO	Listening on port 35379
+1509036235242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509036235278	Marionette	DEBUG	Register listener.js for window 2147483649
+1509036235293	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509036235304	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509036235305	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509036235309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1509036235312	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1509036239009	Marionette	INFO	New connections will no longer be accepted
+[Child 28175] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28175] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
