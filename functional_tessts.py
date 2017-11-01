@@ -27,13 +27,13 @@ class NewVisitorTest(unittest.TestCase):
         inputbox.send_keys("Buy peacok feathers")
 
         inputbox.send_keys(Keys.ENTER)
-
         table = self.browser.find_element_by_id('id_list_table')
         rows = table.find_elements_by_tag_name('tr')
         self.assertTrue(any(row == '1: Buy peacock  feathers' for row in rows),
                         "New item did not apear in table")
 
 
-        self.fail("Finish The test")
+        self.fail("Finish The test"
+
 if __name__ == "__main__":
     unittest.main(warnings = "ignore")
